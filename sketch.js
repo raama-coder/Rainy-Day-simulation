@@ -79,7 +79,7 @@ function spawnLightning(){
         default: break;
       }
     }
-   
+ 
 }
 
 
