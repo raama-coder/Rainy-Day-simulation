@@ -10,10 +10,10 @@ var lightning, lightning1, lightning2, lightning3, lightning4
 
 
 function preload(){
-    lightning1 = loadImage("Images/thunderbolt/1.png");
-    lightning2 = loadImage("Images/thunderbolt/2.png");
-    lightning3 = loadImage("Images/thunderbolt/3.png");
-    lightning4 = loadImage("Images/thunderbolt/4.png");
+    lightning1 = loadImage("images/thunderbolt/1.png");
+    lightning2 = loadImage("images/thunderbolt/2.png");
+    lightning3 = loadImage("images/thunderbolt/3.png");
+    lightning4 = loadImage("images/thunderbolt/4.png");
 }
 
 function setup(){
