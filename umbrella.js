@@ -1,7 +1,7 @@
 class Umbrella{
 
     constructor(x,y){
-        this.image=loadImage("Images/Walking Frame/walking_1.png")
+        this.image=loadImage("images/Walking Frame/walking_1.png")
         var options={
             isStatic: true,
             restitution: 1.5,
